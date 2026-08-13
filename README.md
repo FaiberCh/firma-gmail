@@ -62,8 +62,7 @@ no sirve archivos de repos privados sin autenticación).
 | Cargo | Coordinador de Exámenes Médicos |
 | Empresa | Exámenes Médicos Especializados |
 | WhatsApp / Teléfono | +57 350 620 9179 |
-| Email principal | examenespecializado@gmail.com |
-| Email directo | jobaquira@gmail.com |
+| Email | examenespecializado@gmail.com |
 | Web | https://www.examenesespecializados.com/ |
 | Tagline | "Tu proceso, en las mejores manos" |
 
