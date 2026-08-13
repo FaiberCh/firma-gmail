@@ -75,3 +75,10 @@ todos los botones CTA son circulares, sin excepción.
   `width`/`height` del `<img>` en `index.html` (están en 190×190 px).
 - Los datos de contacto (nombre, cargo, teléfono, email) están únicamente dentro de
   `index.html` — no se repiten en este README.
+
+## 🙏 Créditos
+
+La estructura base (tarjeta de dos columnas, estilos inline, ícono vía `img.icons8.com`)
+se tomó como referencia de la firma original de **Carlos José Carranza V.**:
+
+[![GitHub](https://img.shields.io/badge/GitHub-carforck-181717?logo=github&logoColor=white)](https://github.com/carforck/Firma-Personalizada-Gmail-)
